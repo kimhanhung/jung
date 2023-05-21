@@ -1,0 +1,44 @@
+h4{
+    margin-left: 7%;
+}
+.book-bill-title {
+    font-weight: bold;
+    padding-bottom: 10px;
+    /* border-bottom: solid 1px #393280; */
+    margin-bottom: 10px;
+}
+.bill-block{
+    background-color:#FCECEC;
+    display: block;
+    margin-right: 30px;
+    padding: 10px 10% 10px 5%;
+}
+.bill-list-book{
+    display: block;
+    padding-bottom: 10px;
+    border-bottom: solid 1px #393280;
+    border-top: solid 1px #393280;
+}
+.book-item{
+    padding-bottom: 5px;
+}
+.bill-total{    
+    font-weight: bold;
+    padding-top: 10px;
+    /* border-top: solid 1px #393280; */
+}
+.bill-text{
+    display: flex;
+    justify-content: space-between;
+    color: #173F5F;
+}
+.bill-span{
+    flex :1;
+}
+.book-order-text, h4{
+    display: block;
+    position: relative;
+    text-align: center;
+        margin: auto;
+
+}

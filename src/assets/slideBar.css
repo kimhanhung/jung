@@ -1,0 +1,43 @@
+.introduce{
+/* margin-left: 10%; */
+/* margin-bottom: 30px; */
+/* margin-left: 10px; */
+/* height: 70%; */
+width: 99%;
+}
+.introduce-block{
+    background: linear-gradient(83.53deg, #FFE6E6 22.18%, #F5FFFE 49.52%, #FFFFFF 114.21%, #FFFFFF 171.73%);
+    /* width: 80%; */
+    margin-top: 30px;
+   
+    
+}
+.intro-book-item{
+    padding-top: 7%;
+}
+.content{
+    color: #393280CC;
+    opacity: 80%;
+}
+.img{
+    width: 350px;
+    height: 350px;
+    padding-top: 5%;
+    object-fit: cover;
+    padding-bottom: 5%;
+}
+.title{
+    color: #173F5F;
+    font-weight: bold;
+    text-align: center;
+}
+.content{
+    display: block;
+    position: relative;
+    text-align: justify;
+    align-items: center;
+    margin: auto;
+
+
+    width: 70%;
+}

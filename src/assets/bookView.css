@@ -1,0 +1,87 @@
+.book-view{
+    margin-top: 5%;
+}
+.book-view-title{
+font-weight: 700;
+font-size: 35px;
+line-height: 34px;
+letter-spacing: 2;
+color: #173F5F;
+margin-bottom: 20px;
+}
+.infor-block{
+    padding-left: 10%;
+}
+.imgView_block{
+/* width: 70%; */
+}
+.imgView-book{
+    display: block;
+    position: relative;
+    text-align: center;
+        margin: auto;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* padding-left: 40%; */
+    object-fit: cover;
+    height: 450px;
+    width: 400px;
+}
+.book-author{
+    font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 1.05429px;
+color: #173F5F;
+}
+.book-des{
+    font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+letter-spacing: 1.28857px;
+text-align: justify;
+/* color: #767070; */
+}
+.book-price{
+    font-weight: 600;
+    font-size: 25px;
+}
+.book-text{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    color: #173F5F;
+}
+.book-span{
+    flex :1;
+}
+.book-des{
+    width: 70%;
+}
+
+.btn-gen{
+    width: 117px;
+    height: 40px;
+    border-radius: 7px;
+    margin: 5px 10px 0px 10px;
+    /* background: #ED553B; */
+}
+.btn-block{
+    display: flex;
+}
+.add-to-card{
+    display: flex;
+}
+.btn-oder{
+    background: #ED553B;
+    border: none;
+    color: #FFF;
+    border-top-right-radius: 7px ;
+    border-bottom-right-radius: 7px ;
+    
+}
+.btn-comment{
+    border: solid 1px #ED553B;
+    background-color: transparent;
+    color: #ED553B;
+}

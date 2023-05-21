@@ -1,0 +1,81 @@
+.book-cmt-block{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+h3{
+    color: #173F5F;
+}
+.book-cmt{
+    position: relative;
+    margin: auto;
+}
+.rate-infor{
+    border: solid 2px #f78484 ;
+    background: #FAEFEF;
+    border-radius: 20px;
+    width: 79%;
+}
+.book-cmt{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 5%;
+    border-bottom: solid 1px #f78484 ;
+    width: 90%;
+
+}
+.book-user{
+    width: 90%;
+    color: #173F5F;
+}
+.name{
+    /* margin-right: 10% ; */
+    font-weight: bold;
+}
+.comment-block{
+    margin-top: 5px;
+    margin-bottom: 10px;
+   /* margin-left: 5%; */
+    border: solid 2px #f78484 ;
+    width: 79%;
+    background-color: #FAEFEF;
+    border-radius: 20px;
+}
+.input-rate{
+    border: none;
+    border-bottom:solid 1px #f78484  ;
+    margin-bottom: 5px;
+    background-color: transparent;
+    outline: none;
+}
+.comment-text{
+    border: none;
+}
+.book-cmt-text{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 5%;
+  
+    width: 90%;
+}
+.input-text{
+    width: 100%;
+    /* border: none; */
+    background-color: transparent;
+    outline: #f78484;
+    border:solid 1px #f78484;
+}
+.btn-cmt{
+    background: #ED553B;
+    border: none;
+    color: #FFF;
+    border-radius: 10px;
+    padding: 8px;
+    margin-left: 85%;
+}
+.delete{
+    
+}
+.btn_delete{
+    border: none;
+    background-color: transparent;
+}
